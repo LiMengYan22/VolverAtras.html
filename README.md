@@ -3,7 +3,6 @@ Volver atrás *en HTML* con función ***javascript:window.history.back()*** de J
 
 ```
 
- <a href="javascript:window.history.back();">&laquo; Volver atrás</a>
- 
+ <a href="javascript:window.history.back();">&laquo; Volver atrás</a> 
  
 ```
